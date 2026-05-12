@@ -26,10 +26,9 @@ iOS(Swift/UIKit/SwiftUI)까지 학습 및 프로젝트 경험을 포함합니다
 ## iOS / Swift
 
 ### Weather Cast App (mobileModule03)
-> SwiftUI 기반 42 API 클라이언트 앱
+> SwiftUI 기반 Weather OpenAPI 클라이언트 앱
 
 - SwiftUI
-- Async/Await
 - [OpenAPI](https://open-meteo.com/en/docs/geocoding-api)
 - [OpenAPI SDK Contributor](https://github.com/open-meteo/sdk)
 - MVVM
