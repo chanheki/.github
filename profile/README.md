@@ -1,5 +1,115 @@
-## [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchanheki&count_bg=%2363824B&title_bg=%2385B860&icon=apple.svg&icon_color=%23E7E7E7&title=chanhihi%F0%9F%91%8B&edge_flat=false)](https://hits.seeyoufarm.com)
+# 42Seoul Projects Archive
 
+42Seoul 과정에서 진행한 프로젝트들을 정리한 저장소입니다.
+
+시스템 프로그래밍(C), 네트워크, 운영체제, Docker, C++, 알고리즘부터  
+iOS(Swift/UIKit/SwiftUI)까지 학습 및 프로젝트 경험을 포함합니다.
+
+---
+
+## Timeline
+
+| Year | Category | Projects |
+|------|------|------|
+| 2022 | C Basics | libft, ft_printf, get_next_line |
+| 2023 | System Programming | pipex, minishell, philosophers |
+| 2023 | Graphics & Algorithms | so_long, push_swap, cub3d |
+| 2023 | Network & Infra | NetPractice, Webserv, Inception |
+| 2023 | C++ | CPP Modules |
+| 2024 | iOS | Mobile Piscine, swifty-proteins |
+| 2025 | SwiftUI | swifty-companion |
+
+---
+
+# Featured Projects
+
+## iOS / Swift
+
+### Weather Cast App (mobileModule03)
+> SwiftUI 기반 42 API 클라이언트 앱
+
+- SwiftUI
+- Async/Await
+- [OpenAPI](https://open-meteo.com/en/docs/geocoding-api)
+- [OpenAPI SDK Contributor](https://github.com/open-meteo/sdk)
+- MVVM
+
+---
+
+### swifty-proteins
+> Tuist + Modular Architecture 기반 iOS 프로젝트
+
+- UIKit
+- Tuist
+- Modular Architecture
+- AutoLayout
+
+---
+
+## System Programming
+
+### minishell
+> Bash 일부 기능 구현
+
+- Process
+- Pipe
+- Redirection
+- Signal Handling
+- Parsing
+
+---
+
+### Webserv
+> HTTP 서버 구현 프로젝트
+
+- HTTP/1.1
+- Socket
+- CGI
+- Event-driven Architecture
+
+---
+
+## Infrastructure
+
+### Inception
+> Docker 기반 서비스 인프라 구성
+
+- Docker
+- Docker Compose
+- Nginx
+- WordPress
+- MariaDB
+
+[Repository](...)
+
+---
+
+# Skills
+
+## Languages
+- C
+- C++
+- Swift
+
+## iOS
+- UIKit
+- SwiftUI
+- MVVM
+- Modular Architecture
+- Combine
+
+## System
+- Unix
+- Socket Programming
+- Multi-threading
+- Process Management
+
+## Infra
+- Docker
+- Nginx
+- Linux
+
+---
 🍏 [Chanhihi](https://github.com/chanhihi)
 
 [Profile Link to 42](https://profile.intra.42.fr/users/chanheki)
