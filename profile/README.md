@@ -79,8 +79,6 @@ iOS(Swift/UIKit/SwiftUI)까지 학습 및 프로젝트 경험을 포함합니다
 - WordPress
 - MariaDB
 
-[Repository](...)
-
 ---
 
 # Skills
